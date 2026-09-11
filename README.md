@@ -1,4 +1,4 @@
-# Hi, I'm Spencer Le Bleu
+# Hi, I'm Spencer Le Bleu!
 
 ### Computer science student and software developer in Sacramento, California
 
