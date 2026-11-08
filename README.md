@@ -1,9 +1,9 @@
-![Hi! I'm Spencer Le Bleu. A computer science student and software developer in Sacramento. My projects include Keys2Fitness (lead developer), rs-mercher (machine learning, private source), PokerApp, and interactive course guides. Full profile text is available in the expandable section below.](./profile-sheet.png)
+# Hi! I'm Spencer Le Bleu
 
-[Portfolio](https://dorkwitafork.github.io/#/hiring) · [Keys2Fitness](https://github.com/marynolan6/Keys2Fitness) · [PokerApp](https://github.com/DorkWitAFork/PokerApp) · [Course guides](https://dorkwitafork.github.io/#/student) · [LinkedIn](https://linkedin.com/in/spencer-lebleu-1214b7196/) · [Email](mailto:slebleu@csus.edu)
+*Computer Science student · Sacramento, CA*  
+Software developer
 
-<details>
-<summary>Read the profile as text</summary>
+[Portfolio](https://dorkwitafork.github.io/#/hiring) · [LinkedIn](https://linkedin.com/in/spencer-lebleu-1214b7196/) · [Email](mailto:slebleu@csus.edu)
 
 ## A little about me
 
@@ -11,15 +11,49 @@ I am studying Computer Science in Sacramento. I first developed my knowledge by 
 
 ## Projects
 
-- **Keys2Fitness** — I’m the lead developer on TEAM404’s fitness coaching app. We’re building separate coach and client experiences with React Native, Expo, TypeScript, and Firebase. In progress.
-- **rs-mercher** — A machine learning project studying real market trends on the Old School RuneScape Grand Exchange. I’m working on recording observations, learning from decisions and outcomes, and evaluating predictions. In progress; source code is private.
-- **PokerApp** — A Java Swing and SQLite desktop app for tracking poker sessions, players, buy-ins, and cash-outs. In progress.
-- **Course guides** — The interactive networking and operating-systems guides I’m building alongside my coursework.
+### Keys2Fitness
+
+*Lead developer · TEAM404 senior project · In progress*
+
+I’m the lead developer on a fitness coaching app with separate coach and client experiences. We’re building workout and exercise screens, progress views, and messaging with React Native, Expo, TypeScript, and Firebase.
+
+[Keys2Fitness repository](https://github.com/marynolan6/Keys2Fitness)
+
+### rs-mercher
+
+*Machine learning · In progress · Private source*
+
+A machine learning project studying how real market trends move on the Old School RuneScape Grand Exchange. I’m working on recording market observations, learning from decisions and outcomes, and evaluating where the system’s predictions fall short.
+
+Taxes, buy limits, liquidity, partial fills, and stale observations all affect whether a proposed trade makes sense. Recorded evidence supports evaluation, paper decisions, and replay while the project develops.
+
+### PokerApp
+
+*Desktop application · In progress*
+
+A Java Swing and SQLite app for recording poker sessions, players, buy-ins, cash-outs, and table history. I’m keeping models, database access, services, and interface code separate as I finish the service operations.
+
+[PokerApp repository](https://github.com/DorkWitAFork/PokerApp)
+
+### Course guides
+
+*CSC 138 networking · CSC 139 operating systems*
+
+The interactive course companions I’m building alongside my coursework. They include lessons, diagrams, practice exercises, quizzes, and references, with progress saved locally in the browser.
+
+[Open the course guides](https://dorkwitafork.github.io/#/student) · [Website repository](https://github.com/DorkWitAFork/DorkWitAFork.github.io)
 
 ## Languages and tools
 
-- **Languages:** C/C++, Python, Java, JavaScript, HTML, CSS
-- **Databases:** NoSQL (MongoDB), SQL (MySQL, SQLite)
-- **Tools/Methodologies:** Git, Jira, Agile/Scrum Development, Vim, Unix/Linux, Claude Code/LLM Workflows
+**Languages**  
+C/C++, Python, Java, JavaScript, HTML, CSS
 
-</details>
+**Databases**  
+NoSQL (MongoDB), SQL (MySQL, SQLite)
+
+**Tools/Methodologies**  
+Git, Jira, Agile/Scrum Development, Vim, Unix/Linux, Claude Code/LLM Workflows
+
+---
+
+[Portfolio](https://dorkwitafork.github.io/#/hiring) · [LinkedIn](https://linkedin.com/in/spencer-lebleu-1214b7196/) · [Email](mailto:slebleu@csus.edu)
