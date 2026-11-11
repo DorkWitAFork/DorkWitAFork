@@ -46,7 +46,7 @@ The interactive course companions I’m building alongside my coursework. They i
 ## Languages and tools
 
 **Languages**  
-C/C++, Python, Java, JavaScript, HTML, CSS
+C/C++, Python, Java, JavaScript, TypeScript, HTML, CSS
 
 **Databases**  
 NoSQL (MongoDB), SQL (MySQL, SQLite)
